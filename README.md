@@ -5,5 +5,7 @@
 - [Section 02 - Interacting with Python](https://github.com/romulovieira777/Python_Developer/tree/main/Section%2002%20-%20Interacting%20with%20Python)
 - [Section 03 - Python Control Flow Statements](https://github.com/romulovieira777/Python_Developer/tree/main/Section%2003%20-%20Python%20Control%20Flow%20Statements)
 - [Section 04 - Python Functions](https://github.com/romulovieira777/Python_Developer/tree/main/Section%2004%20-%20Python%20Functions)
+- [Section 05 - Python Operators and Data Types]()
+- [Section 06 - Python Data Structures]()
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-developer-pythondjangoflaskpostgresqlmysqlapi/)
