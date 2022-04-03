@@ -1,17 +1,13 @@
-from flask import Flask
-
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
 
 @app.route('/')
 def index():
-    return '<h1> Hello World</h1>'
+    return render_template('index.html')
 
-@app.route('/about')
-def about():
-    return '<h1>Hello World from about page</h1>'
 
 @app.route('/quotes')
 def quotes():
-    return '<h1>Life is journey</h1>'
+    return render_template('quotes.html')
