@@ -11,7 +11,7 @@
 - [Section 08 - Python Modules and Packages](https://github.com/romulovieira777/Python_Developer/tree/main/Section%2008%20-%20Python%20Modules%20and%20Packages)
 - [Section 09 - PostgreSQL Setup](https://github.com/romulovieira777/Python_Developer/tree/main/Section%2009%20-%20PostgreSQL%20Setup)
 - [Section 10 - Developing a Web App with Python + Flask + PostgreSQL](https://github.com/romulovieira777/Python_Developer/tree/main/Section_10_Developing_a_Web_App_with_Python_Flask_PostgreSQL)
-- [Section 11 - Developing a Web App with Python + Django + PostgreSQL]()
+- [Section 11 - Developing a Web App with Python + Django + PostgreSQL](https://github.com/romulovieira777/Python_Developer/tree/main/Section_11_Developing_a_Web_App_with_Python_Django_PostgreSQL/code)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-developer-pythondjangoflaskpostgresqlmysqlapi/)
