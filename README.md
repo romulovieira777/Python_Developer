@@ -13,7 +13,7 @@
 - [Section 10 - Developing a Web App with Python + Flask + PostgreSQL](https://github.com/romulovieira777/Python_Developer/tree/main/Section_10_Developing_a_Web_App_with_Python_Flask_PostgreSQL)
 - [Section 11 - Developing a Web App with Python + Django + PostgreSQL](https://github.com/romulovieira777/Python_Developer/tree/main/Section_11_Developing_a_Web_App_with_Python_Django_PostgreSQL/code)
 - [Section 12 - MySQL Database Setup](https://github.com/romulovieira777/Python_Developer/tree/main/Section%2012%20-%20MySQL%20Database%20Setup)
-- [Section 13 - Developing an App with Python + MySQL]()
+- [Section 13 - Developing an App with Python + MySQL](https://github.com/romulovieira777/Python_Developer/tree/main/Section%2013%20-%20Developing%20an%20App%20with%20Python%20%2B%20MySQL)
 
 
 Link to the course: [Udemy](https://www.udemy.com/course/python-developer-pythondjangoflaskpostgresqlmysqlapi/)
