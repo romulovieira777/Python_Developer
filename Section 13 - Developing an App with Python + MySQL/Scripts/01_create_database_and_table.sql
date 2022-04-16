@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS
+	mybooks;
+
+
+CREATE TABLE IF NOT EXISTS mybooks.books 
+(
+    id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY
+  , title VARCHAR(255)
+  , author VARCHAR(255)
+  , isbn INTEGER
+);
