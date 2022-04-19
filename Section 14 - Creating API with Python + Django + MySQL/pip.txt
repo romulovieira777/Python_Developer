@@ -1,0 +1,5 @@
+pip install django
+
+pip install djang-cors-header
+
+pip install djangorestframework
